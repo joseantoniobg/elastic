@@ -1,0 +1,2 @@
+sudo shown -R 1000:root elasticsearch_data
+sudo chown root beats/metric/metricbeat.yml
